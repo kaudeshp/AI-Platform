@@ -4,7 +4,6 @@ import java.util.Date;
 import java.util.List;
 
 public class Conversation {
-
 	public Date startTime_;
 	public String conversationStarter_;
 	public List<String> channels_;	//Channels
