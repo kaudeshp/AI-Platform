@@ -1,4 +1,4 @@
-© 2024 All Rights Reserved
+© 2025 All Rights Reserved
 
 # AICommunicator: Platform to communicate with public bots on different channels.
 
