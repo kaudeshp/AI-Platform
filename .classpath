@@ -3,6 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="job_system/src"/>
 	<classpathentry kind="lib" path="C:/Users/whizkid/Documents/AI_Communicator/aicommunicator/job_system/mongo-java-driver-2.13.3-javadoc.jar"/>
-	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/AI_Job_System"/>
+	<classpathentry combineaccessrules="false" exported="true"  kind="src" path="/AI_Job_System"/>
 	<classpathentry kind="output" path="job_system/bin"/>
 </classpath>
