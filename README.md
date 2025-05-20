@@ -1,6 +1,6 @@
 © 2025 All Rights Reserved
 
-# AICommunicator: Platform to communicate with public bots on different channels.
+# AI-Platform: Platform to communicate with public bots on different channels.
 
 <br /> <br />
 # System components
