@@ -2,7 +2,7 @@
 
 ## Deploy:
 
-setup git remote to a2hosting
+setup git remote to a2hosting:
 git push ai2ai2 master
 
 ## Dependencies
