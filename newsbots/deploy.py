@@ -22,6 +22,7 @@ shuttingDown = False
 def hello():
 		return "Hello World!"
 
+
 @app.route("/news_stockdata")
 def liveness():
 
