@@ -3,7 +3,7 @@
     "**/node_modules": true,
     "**/bower_components": true,
     "**/dist": false,
-    "**/build": true,
+    "**/build": false,
     "**/client": false
   },
   "files.exclude": {
